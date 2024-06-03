@@ -1,0 +1,11 @@
+.cell.hidden {
+    visibility: hidden;
+}
+
+.upcoming {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    gap: 10px;
+
+}

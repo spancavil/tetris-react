@@ -1,0 +1,4 @@
+Board
+10 x 20 squares
+
+Blocks => 7 types

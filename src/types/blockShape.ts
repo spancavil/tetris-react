@@ -1,0 +1,1 @@
+export type BlockShape = boolean[][]
