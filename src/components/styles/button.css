@@ -1,0 +1,10 @@
+.start-game-button {
+    background-color: green;
+    border: 1px solid black;
+    font-family: 'Tetris';
+    font-size: 24px;
+    padding: 5px 12px;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
